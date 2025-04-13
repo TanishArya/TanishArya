@@ -1,10 +1,7 @@
-# Hi there 👋, I'm Tanish Arya!
-
-Welcome to my GitHub profile! I'm passionate about software development and enjoy working on innovative projects. I love exploring new technologies and building tools that solve real-world problems.
 
 # Welcome to Tanish Arya's GitHub Profile 👋
 
-Hi there! I'm Tanish Arya, a passionate developer who loves coding and building innovative solutions. Here, you'll find some of my favorite projects and repositories showcasing my skills in programming and problem-solving.
+Hi there! I'm Tanish Arya, a passionate developer who loves coding and building innovative solutions. Here, you'll find some of my favorite projects and repositories showcasing my skills in programming and problem-solving. I'm passionate about software development and enjoy working on innovative projects. I love exploring new technologies and building tools that solve real-world problems.
 
 ---
 
