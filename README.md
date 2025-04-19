@@ -21,12 +21,6 @@ Hi there! I'm Tanish Arya, a passionate developer who loves coding and building 
 
 ## 📂 My Repositories
 
-### [Fitness-Web-App](https://github.com/TanishArya/Fitness-Web-App)
-A project focused on fitness and health.  
-**Technologies:** *Details not specified but potentially Python, HTML.*
-
----
-
 ### [Face-Recognition-Attendance-System](https://github.com/TanishArya/Face-Recognition-Attendance-System)
 A Python-based system to manage attendance using face recognition.  
 **Technologies:** Python
